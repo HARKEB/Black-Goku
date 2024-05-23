@@ -7,6 +7,7 @@ Simple overview of use/purpose.
 An in-depth paragraph about your project and overview of use.
 
 ## Stakeholder register
+Agile Projects/Iteration 1/Stakeholder register sample.pdf
 ## Risk register
 ## 
 

@@ -22,6 +22,14 @@ files for each iteration are neatly linked below so its easy to find.
 #### Resource needs
 
 ## Iteration 3
+#### Group meeting report
+[Agile Projects/Iteration 3/Iteration 3 Group meeting report.docx](https://github.com/HARKEB/Black-Goku/blob/main/Agile%20Projects/Iteration%203/Iteration%203%20Group%20meeting%20report.docx)
+#### Progress report
+[Agile Projects/Iteration 3/iteration 3 agile.docx](https://github.com/HARKEB/Black-Goku/blob/main/Agile%20Projects/Iteration%203/iteration%203%20agile.docx)
+#### Complete agile Gantt chart
+[Agile Projects/Iteration 3/Agile Gantt chart.xlsx](https://github.com/HARKEB/Black-Goku/blob/main/Agile%20Projects/Iteration%203/Agile%20Gantt%20chart.xlsx)
+#### Risk register
+[Agile Projects/Iteration 3/risk_register.docx](https://github.com/HARKEB/Black-Goku/blob/main/Agile%20Projects/Iteration%203/risk_register.docx)
 
 
 ## Group members

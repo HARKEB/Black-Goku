@@ -45,6 +45,7 @@ A Gantt chart was used to assign tasks to different group members and keep track
 [Agile Projects/Iteration 3/risk_register.docx](https://github.com/HARKEB/Black-Goku/blob/main/Agile%20Projects/Iteration%203/risk_register.docx)<br />
 As a group we created a risk register for the project. The Risk register are indeed valuable tools for identifying, assessing, and managing risks throughout the project's lifecycle.
 #### User acceptance testing:
+[Agile Projects/User Acceptance Tests(1).xlsx](https://github.com/HARKEB/Black-Goku/blob/main/Agile%20Projects/User%20Acceptance%20Tests(1).xlsx)<br />
 
 
 

@@ -1,7 +1,7 @@
 # Goku Black - 2024 Github readme
 
 ## Description
-This is a project were we document the processes involved in what it takes to develop a successful e-commerce website following the 'Agile' project management method. All relevant documentation 
+This is a project where we document the processes involved in what it takes to develop a successful e-commerce website following the 'Agile' project management method. All relevant documentation 
 files for each iteration are neatly linked below so its easy to find. Below is a live static website link of the website 'Timups' demonstrating that the file structure of our github repository is working correctley.<br />
 https://harkeb.github.io/Black-Goku/
 #
